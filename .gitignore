@@ -41,6 +41,7 @@ build/Release
 node_modules/*
 ski-app/node_modules/*
 very-basic/node_modules/*
+members-app/node_modules/*
 jspm_packages/
 
 
