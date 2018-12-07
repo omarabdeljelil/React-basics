@@ -16,6 +16,12 @@ nav.menu {
   }
 }
 
+
+table,td,th,tr{
+  border: 1px solid black;
+  text-align: center;
+  }
+
 div.goal-progress {
 
   width: 95%;
@@ -178,7 +184,7 @@ div.show-errors {
   }
 }
 
-form.add-day-form {
+form.add-day {
   font-family: Verdana, sans-serif;
   width: 70%;
   margin-left: 15%;
